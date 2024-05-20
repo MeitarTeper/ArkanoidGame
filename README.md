@@ -1,6 +1,6 @@
 # Arkanoid Game
 
-<img width="431" alt="OOP pic5" src="https://github.com/MeitarTeper/ArkanoidGame/assets/155824766/462834f1-4cde-49cf-9fcb-c1d8c6a59986">
+<img width="1000" alt="OOP pic5" src="https://github.com/MeitarTeper/ArkanoidGame/assets/155824766/462834f1-4cde-49cf-9fcb-c1d8c6a59986">
 
 
 ## Getting Started
