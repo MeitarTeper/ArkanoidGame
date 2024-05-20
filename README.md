@@ -1,8 +1,6 @@
 # Arkanoid Game
-![OOP pic2](https://github.com/MeitarTeper/ArkanoidGame/assets/155824766/a9bfbb31-2a94-414b-8d29-fa1037daf8fc)
-![OOP pic1](https://github.com/MeitarTeper/ArkanoidGame/assets/155824766/18fdcaac-7326-4735-ba3c-4ebddb9a670c)
-![OOP pic3](https://github.com/MeitarTeper/ArkanoidGame/assets/155824766/64ea9214-8836-44ca-b1a2-43c91a4ea8d8)
-![OOP pic4](https://github.com/MeitarTeper/ArkanoidGame/assets/155824766/62629a82-f8dd-4300-a126-836ad9a36480)
+
+<img width="431" alt="OOP pic5" src="https://github.com/MeitarTeper/ArkanoidGame/assets/155824766/462834f1-4cde-49cf-9fcb-c1d8c6a59986">
 
 
 ## Getting Started
