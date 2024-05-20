@@ -14,30 +14,13 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 * Usage of several generic collections and data structures such as linked lists and arraylists.
 * Working with GUI.
 
-## Dependencies
-
-This project requires the following dependencies:
-
-* Windows / Linux / macOS
-* Apache Ant
-
-
 ## Installation
 
-Clone the repository: 
+1. Clone the repository: 
 ```bash
 git clone https://github.com/MeitarTeper/ArkanoidGame
 ```
-
-#### Option 1:
-1. Install [Apache Ant](https://ant.apache.org/bindownload.cgi)
-2. Open Teminal in the cloned directory and run this command:
-```
-ant run
-```
-
-#### Option 2:
-1. Open the project from an IDE such as Intellij, VS, etc.
-2. Add the biu-oop.jar file as a global library to the Arkanoid project.
-3. Make sure an updated jdk is set in the configuration for the manu to run on, and click play.
+2. Open the project from an IDE such as Intellij, VS, etc.
+3. navigate to: ./src/Ass6Game
+4. Make sure an updated jdk is set in the configuration for the manu to run on, and click play.
 
